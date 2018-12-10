@@ -20,8 +20,8 @@ it = gross_salary*tax/100
 net_sal=gross_salary-it
 print("Employee Id: %d"%employee_id)
 print("Basic salary: %f"%salary)
-print("Allowance: %f"%allowance)
-print("GRoss pay: %f"%gross_salary)
-print("Income Tax: %f"%it)
-print("Net Pay: %f"%net_sal)
+print("Allowance: %f" %allowance)
+print("GRoss pay: %f" %gross_salary)
+print("Income Tax: %f" %it)
+print("Net Pay: %f" %net_sal)
 
